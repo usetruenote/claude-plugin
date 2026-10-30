@@ -1,0 +1,14 @@
+{
+  "name": "claude-plugin",
+  "description": "Truenote for Claude Code: your accounts and the context behind them, with skills for the monthly review, affordability, quarterly taxes and setup.",
+  "owner": {
+    "name": "Truenote",
+    "url": "https://usetruenote.com"
+  },
+  "plugins": [
+    {
+      "name": "truenote",
+      "source": "./"
+    }
+  ]
+}

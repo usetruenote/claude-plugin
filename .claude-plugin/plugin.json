@@ -1,0 +1,26 @@
+{
+  "name": "truenote",
+  "displayName": "Truenote",
+  "version": "0.1.0",
+  "description": "Your bank, card, loan and investment accounts plus the context behind them (a spending plan, buckets, goals, income and taxes), for Claude to read and keep. Read-only to your banks.",
+  "author": {
+    "name": "Truenote",
+    "url": "https://usetruenote.com"
+  },
+  "homepage": "https://usetruenote.com/connect/claude-code",
+  "repository": "https://github.com/usetruenote/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "budget",
+    "spending plan",
+    "taxes",
+    "plaid",
+    "mcp"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://usetruenote.com/connect/claude-code",
+  "supportUrl": "https://usetruenote.com/connect/claude-code",
+  "privacyPolicyUrl": "https://usetruenote.com/legal/privacy",
+  "termsOfServiceUrl": "https://usetruenote.com/legal/terms"
+}
